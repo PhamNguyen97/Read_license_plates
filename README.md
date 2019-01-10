@@ -6,8 +6,8 @@ License plate reading is an interest task with numerous uses in real world. Thou
 
 KNN Classifier is a simple algorithm but it can bring surprisingly high accuracy output. In this situation, KNN is used for character classification.
 
-![Alt text](img1.png?raw=true "img1")
-![Alt text](img2.png?raw=true "img2")
+![Alt text](Test/img1.png?raw=true "img1")
+![Alt text](Test/img2.png?raw=true "img2")
 
 # Algorithm
 - Step1. Prepare training data (image of characters in license plates (0,1,2,3,....,9,A,B,C,...) with labels)
@@ -17,8 +17,8 @@ KNN Classifier is a simple algorithm but it can bring surprisingly high accuracy
 - Step5. Pass them through KNN model.
 
 # Output
-![Alt text](output/output1.PNG?raw=true "output1")
-![Alt text](output/output2.PNG?raw=true "output2")
+![Alt text](Output/output1.PNG?raw=true "output1")
+![Alt text](Output/output2.PNG?raw=true "output2")
 
 # Dependencies
 - opencv
